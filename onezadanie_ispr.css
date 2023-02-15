@@ -8,7 +8,7 @@ html, body {
 }
 .box {
     width: 80%;
-    position: absolute;
+    position: center;
     margin: auto;
   overflow: auto;
 }
@@ -42,7 +42,7 @@ html, body {
  font-size: 70px;
  letter-spacing: 10px;
  text-align: center;
- color: white;
+ color: pink;
  font-weight: 400;
  text-transform: uppercase;
  z-index: 10;
@@ -74,7 +74,7 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 #landing .title {
- background: white;
+ background: pink;
  padding: 60px;
  margin: 0 auto;
  text-align: center;
@@ -84,7 +84,7 @@ html, body {
  letter-spacing: 8px;
 }
 #landing .block {
- background: white;
+ background: pink;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
